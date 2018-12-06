@@ -1,0 +1,2 @@
+# VINCENT
+AI Assistant Personality
